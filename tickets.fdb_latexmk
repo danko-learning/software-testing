@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1703122566 "b:/ВУЗ/5 семестр/Тестирование ПО/Билеты/tickets.tex" "tickets.pdf" "tickets" 1703122569 0
+["pdflatex"] 1703351192 "b:/ВУЗ/5 семестр/Тестирование ПО/software-testing/tickets.tex" "tickets.pdf" "tickets" 1703351196 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc" 1442176730 3023 c4581b906237349b927d8aa9ff8a2b60 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -99,10 +99,15 @@
   "C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map" 1702925608 103328 7802e9e0d49ad57e730f71866bd17364 ""
   "C:/Users/danii/AppData/Local/MiKTeX/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1683974180 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "C:/Users/danii/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1683974023 23169145 674a85f7b822f7d70635bb45382b05c7 ""
-  "b:/ВУЗ/5 семестр/Тестирование ПО/Билеты/tickets.tex" 1703122565 3780 0e8e9e084aad7e25b2fbc7a6fbc17375 ""
-  "tickets.aux" 1703122568 10334 b37aee78c16f80e27fba39e67cf1a138 "pdflatex"
-  "tickets.out" 1703122568 6370 5acf54912de2bfd2f5305a6a0cc1dc6e "pdflatex"
-  "tickets.tex" 1703122565 3780 0e8e9e084aad7e25b2fbc7a6fbc17375 ""
+  "b:/ВУЗ/5 семестр/Тестирование ПО/software-testing/tickets.tex" 1703351191 9780 a65222ae8ae5921d0926870de8c1d9d7 ""
+  "images//15_1.png" 1703349101 198526 372dffed05af6b076f28bf1305a681c6 ""
+  "images//17_1.png" 1703349709 106193 a402d0ffb2a6b30cd9b8fbeb4d557afc ""
+  "images//17_2.png" 1703349724 136028 99a26aeb87a54a2d788adf957ceac07f ""
+  "images//17_3.png" 1703349738 123007 e90ef973c4190bf9458241a365596192 ""
+  "images//21_1.png" 1703351164 88736 ea1314a3ef9375b02a79982d53b1afc8 ""
+  "tickets.aux" 1703351196 16888 fa2c2a5ba27585604f9035edb856c7df "pdflatex"
+  "tickets.out" 1703351196 10755 e2dae81929cc866d978826d555a1a829 "pdflatex"
+  "tickets.tex" 1703351191 9780 a65222ae8ae5921d0926870de8c1d9d7 ""
   (generated)
   "tickets.aux"
   "tickets.log"

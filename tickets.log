@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.13)  21 DEC 2023 05:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.13)  23 DEC 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"b:/Р’РЈР—/5 СЃРµРјРµСЃС‚СЂ/РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РџРћ/Р‘РёР»РµС‚С‹/tickets.tex"
-(b:/Р’РЈР—/5 СЃРµРјРµСЃС‚СЂ/РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РџРћ/Р‘РёР»РµС‚С‹/tickets.tex
+**"b:/Р’РЈР—/5 СЃРµРјРµСЃС‚СЂ/РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РџРћ/software-testing/tickets.tex"
+(b:/Р’РЈР—/5 СЃРµРјРµСЃС‚СЂ/РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ РџРћ/software-testing/tickets.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30> (C:\Program Files\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
@@ -1560,22 +1560,90 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 34.
 [1
 
-{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}] [2] [3] (tickets.aux)
+{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}] [2] [3]
+<images//15_1.png, id=122, 775.39688pt x 424.58624pt>
+File: images//15_1.png Graphic file (type png)
+<use images//15_1.png>
+Package pdftex.def Info: images//15_1.png  used on input line 132.
+(pdftex.def)             Requested size: 483.69684pt x 264.86041pt.
+
+Overfull \hbox (21.14972pt too wide) in paragraph at lines 132--134
+[][]
+ []
+
+[4 <./images//15_1.png>]
+<images//17_1.png, id=129, 763.35187pt x 401.24907pt>
+File: images//17_1.png Graphic file (type png)
+<use images//17_1.png>
+Package pdftex.def Info: images//17_1.png  used on input line 163.
+(pdftex.def)             Requested size: 483.69684pt x 254.25153pt.
+
+Overfull \hbox (2.15996pt too wide) in paragraph at lines 163--165
+[]  
+ []
+
+<images//17_2.png, id=130, 763.35187pt x 420.06938pt>
+File: images//17_2.png Graphic file (type png)
+<use images//17_2.png>
+Package pdftex.def Info: images//17_2.png  used on input line 166.
+(pdftex.def)             Requested size: 483.69684pt x 266.17703pt.
+
+Overfull \hbox (21.14972pt too wide) in paragraph at lines 166--168
+[][]
+ []
+
+[5 <./images//17_1.png> <./images//17_2.png>]
+<images//17_3.png, id=137, 761.09344pt x 398.23781pt>
+File: images//17_3.png Graphic file (type png)
+<use images//17_3.png>
+Package pdftex.def Info: images//17_3.png  used on input line 169.
+(pdftex.def)             Requested size: 483.69684pt x 253.09695pt.
+
+Overfull \hbox (21.14972pt too wide) in paragraph at lines 169--171
+[][]
+ []
+
+[6 <./images//17_3.png>]
+Overfull \hbox (1.09203pt too wide) in paragraph at lines 200--200
+[]\T2A/Tempora-TLF/b/n/20.74 Повторное те-сти-ро-ва-ние (Re-test). Опре-де-ле-ние.
+ []
+
+
+Overfull \hbox (8.77106pt too wide) in paragraph at lines 210--219
+\T2A/Tempora-TLF/b/n/14.4 Модульное (ком-по-нент-ное) те-сти-ро-ва-ние \T2A/Tempora-TLF/m/n/14.4 (unit testing, module testing, component
+ []
+
+
+Overfull \hbox (14.795pt too wide) in paragraph at lines 233--233
+[]\T2A/Tempora-TLF/b/n/20.74 Альфа-те-сти-ро-ва-ние vs Бе-та-те-сти-ро-ва-ние: опре-
+ []
+
+<images//21_1.png, id=143, 759.58781pt x 168.63pt>
+File: images//21_1.png Graphic file (type png)
+<use images//21_1.png>
+Package pdftex.def Info: images//21_1.png  used on input line 235.
+(pdftex.def)             Requested size: 512.1496pt x 113.69939pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 235--237
+[]
+ []
+
+[7] [8 <./images//21_1.png>] (tickets.aux)
 Package rerunfilecheck Info: File `tickets.out' has not changed.
-(rerunfilecheck)             Checksum: 5ACF54912DE2BFD2F5305A6A0CC1DC6E;6370.
+(rerunfilecheck)             Checksum: E2DAE81929CC866D978826D555A1A829;10755.
  ) 
 Here is how much of TeX's memory you used:
- 14538 strings out of 476331
- 230735 string characters out of 5797580
- 1858660 words of memory out of 5000000
- 34717 multiletter control sequences out of 15000+600000
+ 14607 strings out of 476331
+ 231818 string characters out of 5797580
+ 1857660 words of memory out of 5000000
+ 34767 multiletter control sequences out of 15000+600000
  526705 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,1318b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,1542b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Program Files/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on tickets.pdf (3 pages, 80036 bytes).
+Output written on tickets.pdf (8 pages, 498455 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 179 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 194 words of extra memory for PDF output out of 10000 (max. 10000000)
 

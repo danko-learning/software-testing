@@ -1,6 +1,6 @@
-PWD b:\ВУЗ\5 семестр\Тестирование ПО\Билеты
+PWD b:\ВУЗ\5 семестр\Тестирование ПО\software-testing
 INPUT C:\Users\danii\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT b:\ВУЗ\5 семестр\Тестирование ПО\Билеты\tickets.tex
+INPUT b:\ВУЗ\5 семестр\Тестирование ПО\software-testing\tickets.tex
 OUTPUT tickets.log
 INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\extsizes\extarticle.cls
@@ -772,6 +772,36 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\tempora\Tempora-Bold-TLF-t2a.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\tempora\Tempora-Bold-TLF-t2a.tfm
 INPUT C:\ProgramData\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\tempora\t2a-tempora.enc
+INPUT .\images\\15_1.png
+INPUT images\\15_1.png
+INPUT .\images\\15_1.png
+INPUT .\images\\15_1.png
+INPUT .\images\\15_1.png
+INPUT .\images\\15_1.png
+INPUT .\images\\17_1.png
+INPUT images\\17_1.png
+INPUT .\images\\17_1.png
+INPUT .\images\\17_1.png
+INPUT .\images\\17_1.png
+INPUT .\images\\17_1.png
+INPUT .\images\\17_2.png
+INPUT images\\17_2.png
+INPUT .\images\\17_2.png
+INPUT .\images\\17_2.png
+INPUT .\images\\17_2.png
+INPUT .\images\\17_2.png
+INPUT .\images\\17_3.png
+INPUT images\\17_3.png
+INPUT .\images\\17_3.png
+INPUT .\images\\17_3.png
+INPUT .\images\\17_3.png
+INPUT .\images\\17_3.png
+INPUT .\images\\21_1.png
+INPUT images\\21_1.png
+INPUT .\images\\21_1.png
+INPUT .\images\\21_1.png
+INPUT .\images\\21_1.png
+INPUT .\images\\21_1.png
 INPUT tickets.aux
 INPUT .\tickets.out
 INPUT .\tickets.out
