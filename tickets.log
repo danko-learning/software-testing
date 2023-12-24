@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.13)  23 DEC 2023 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.13)  24 DEC 2023 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1561,7 +1561,7 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 [1
 
 {C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/tempora/t2a-tempora.enc}] [2] [3]
-<images//15_1.png, id=122, 775.39688pt x 424.58624pt>
+<images//15_1.png, id=150, 775.39688pt x 424.58624pt>
 File: images//15_1.png Graphic file (type png)
 <use images//15_1.png>
 Package pdftex.def Info: images//15_1.png  used on input line 132.
@@ -1572,7 +1572,7 @@ Overfull \hbox (21.14972pt too wide) in paragraph at lines 132--134
  []
 
 [4 <./images//15_1.png>]
-<images//17_1.png, id=129, 763.35187pt x 401.24907pt>
+<images//17_1.png, id=157, 763.35187pt x 401.24907pt>
 File: images//17_1.png Graphic file (type png)
 <use images//17_1.png>
 Package pdftex.def Info: images//17_1.png  used on input line 163.
@@ -1582,7 +1582,7 @@ Overfull \hbox (2.15996pt too wide) in paragraph at lines 163--165
 []  
  []
 
-<images//17_2.png, id=130, 763.35187pt x 420.06938pt>
+<images//17_2.png, id=158, 763.35187pt x 420.06938pt>
 File: images//17_2.png Graphic file (type png)
 <use images//17_2.png>
 Package pdftex.def Info: images//17_2.png  used on input line 166.
@@ -1593,7 +1593,7 @@ Overfull \hbox (21.14972pt too wide) in paragraph at lines 166--168
  []
 
 [5 <./images//17_1.png> <./images//17_2.png>]
-<images//17_3.png, id=137, 761.09344pt x 398.23781pt>
+<images//17_3.png, id=165, 761.09344pt x 398.23781pt>
 File: images//17_3.png Graphic file (type png)
 <use images//17_3.png>
 Package pdftex.def Info: images//17_3.png  used on input line 169.
@@ -1618,7 +1618,7 @@ Overfull \hbox (14.795pt too wide) in paragraph at lines 233--233
 []\T2A/Tempora-TLF/b/n/20.74 Альфа-те-сти-ро-ва-ние vs Бе-та-те-сти-ро-ва-ние: опре-
  []
 
-<images//21_1.png, id=143, 759.58781pt x 168.63pt>
+<images//21_1.png, id=171, 759.58781pt x 168.63pt>
 File: images//21_1.png Graphic file (type png)
 <use images//21_1.png>
 Package pdftex.def Info: images//21_1.png  used on input line 235.
@@ -1628,22 +1628,174 @@ Overfull \hbox (28.45273pt too wide) in paragraph at lines 235--237
 []
  []
 
-[7] [8 <./images//21_1.png>] (tickets.aux)
+[7]
+<images//23_1.png, id=177, 767.11594pt x 420.82219pt>
+File: images//23_1.png Graphic file (type png)
+<use images//23_1.png>
+Package pdftex.def Info: images//23_1.png  used on input line 248.
+(pdftex.def)             Requested size: 512.1496pt x 280.96695pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 248--250
+[]
+ []
+
+[8 <./images//21_1.png>]
+<images//23_2.png, id=183, 559.33969pt x 138.5175pt>
+File: images//23_2.png Graphic file (type png)
+<use images//23_2.png>
+Package pdftex.def Info: images//23_2.png  used on input line 251.
+(pdftex.def)             Requested size: 512.1496pt x 126.83525pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 251--253
+[][]
+ []
+
+<images//24_1.png, id=184, 746.03719pt x 299.61937pt>
+File: images//24_1.png Graphic file (type png)
+<use images//24_1.png>
+Package pdftex.def Info: images//24_1.png  used on input line 257.
+(pdftex.def)             Requested size: 512.1496pt x 205.6952pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 257--259
+[]
+ []
+
+[9 <./images//23_1.png> <./images//23_2.png>]
+<images//24_2.png, id=191, 746.79pt x 304.13625pt>
+File: images//24_2.png Graphic file (type png)
+<use images//24_2.png>
+Package pdftex.def Info: images//24_2.png  used on input line 260.
+(pdftex.def)             Requested size: 512.1496pt x 208.58731pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 260--262
+[][]
+ []
+
+<images//24_3.png, id=192, 755.07094pt x 283.0575pt>
+File: images//24_3.png Graphic file (type png)
+<use images//24_3.png>
+Package pdftex.def Info: images//24_3.png  used on input line 263.
+(pdftex.def)             Requested size: 512.1496pt x 191.9928pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 263--265
+[][]
+ []
+
+[10 <./images//24_1.png> <./images//24_2.png>]
+<images//25_1.png, id=199, 1019.30812pt x 304.13625pt>
+File: images//25_1.png Graphic file (type png)
+<use images//25_1.png>
+Package pdftex.def Info: images//25_1.png  used on input line 268.
+(pdftex.def)             Requested size: 512.1496pt x 152.81953pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 268--270
+[]
+ []
+
+<images//26_1.png, id=200, 1010.27437pt x 141.52875pt>
+File: images//26_1.png Graphic file (type png)
+<use images//26_1.png>
+Package pdftex.def Info: images//26_1.png  used on input line 273.
+(pdftex.def)             Requested size: 512.1496pt x 71.74678pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 273--275
+[]
+ []
+
+<images//26_2.png, id=201, 1018.55531pt x 414.04688pt>
+File: images//26_2.png Graphic file (type png)
+<use images//26_2.png>
+Package pdftex.def Info: images//26_2.png  used on input line 276.
+(pdftex.def)             Requested size: 512.1496pt x 208.19804pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 276--278
+[][]
+ []
+
+[11 <./images//24_3.png> <./images//25_1.png> <./images//26_1.png>]
+<images//26_3.png, id=209, 998.9822pt x 407.27156pt>
+File: images//26_3.png Graphic file (type png)
+<use images//26_3.png>
+Package pdftex.def Info: images//26_3.png  used on input line 279.
+(pdftex.def)             Requested size: 512.1496pt x 208.79948pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 279--281
+[][]
+ []
+
+
+Overfull \hbox (7.52141pt too wide) in paragraph at lines 283--283
+[]\T2A/Tempora-TLF/b/n/20.74 Перечислите все уров-ни тре-бо-ва-ний. Дай-те опре-
+ []
+
+<images//27_1.png, id=210, 1006.51031pt x 286.06876pt>
+File: images//27_1.png Graphic file (type png)
+<use images//27_1.png>
+Package pdftex.def Info: images//27_1.png  used on input line 285.
+(pdftex.def)             Requested size: 512.1496pt x 145.56139pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 285--287
+[]
+ []
+
+[12 <./images//26_2.png> <./images//26_3.png>]
+<images//27_2.png, id=217, 986.18437pt x 319.1925pt>
+File: images//27_2.png Graphic file (type png)
+<use images//27_2.png>
+Package pdftex.def Info: images//27_2.png  used on input line 288.
+(pdftex.def)             Requested size: 512.1496pt x 165.77162pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 288--290
+[][]
+ []
+
+<images//27_3.png, id=218, 1002.74625pt x 279.29344pt>
+File: images//27_3.png Graphic file (type png)
+<use images//27_3.png>
+Package pdftex.def Info: images//27_3.png  used on input line 291.
+(pdftex.def)             Requested size: 512.1496pt x 142.6551pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 291--293
+[][]
+ []
+
+<images//27_4.png, id=219, 968.86969pt x 280.79906pt>
+File: images//27_4.png Graphic file (type png)
+<use images//27_4.png>
+Package pdftex.def Info: images//27_4.png  used on input line 294.
+(pdftex.def)             Requested size: 512.1496pt x 148.43716pt.
+
+Overfull \hbox (49.60248pt too wide) in paragraph at lines 294--296
+[][]
+ []
+
+[13 <./images//27_1.png> <./images//27_2.png> <./images//27_3.png>]
+<images//28_1.png, id=228, 931.22906pt x 430.60875pt>
+File: images//28_1.png Graphic file (type png)
+<use images//28_1.png>
+Package pdftex.def Info: images//28_1.png  used on input line 299.
+(pdftex.def)             Requested size: 512.1496pt x 236.82896pt.
+
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 299--301
+[]
+ []
+
+[14 <./images//27_4.png> <./images//28_1.png>] (tickets.aux)
 Package rerunfilecheck Info: File `tickets.out' has not changed.
-(rerunfilecheck)             Checksum: E2DAE81929CC866D978826D555A1A829;10755.
+(rerunfilecheck)             Checksum: 6A94E015E05A1F3801A54E42E3064F1D;14993.
  ) 
 Here is how much of TeX's memory you used:
- 14607 strings out of 476331
- 231818 string characters out of 5797580
+ 14753 strings out of 476331
+ 234295 string characters out of 5797580
  1857660 words of memory out of 5000000
- 34767 multiletter control sequences out of 15000+600000
+ 34886 multiletter control sequences out of 15000+600000
  526705 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,76p,1542b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Program Files/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on tickets.pdf (8 pages, 498455 bytes).
+Output written on tickets.pdf (14 pages, 1412585 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
